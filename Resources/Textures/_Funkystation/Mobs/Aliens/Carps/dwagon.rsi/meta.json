@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "size": {
+    "x": 64,
+    "y": 64
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "copyright": "Taken from /tg/station at https://github.com/Toastgoats/tgstation/commit/024a840eed2a1be3f72435c2bb39faac8025f822, Sprites created by Tea(d.d.tea on Discord, @teasq.bsky.social)  ",
+  "states": [
+    {
+      "name": "alive",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "alive-unshaded",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "cover-alive",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ],
+        [
+          0.2,
+          0.2,
+          0.2,
+          0.2
+        ]
+      ]
+    },
+    {
+      "name": "crit"
+    },
+    {
+      "name": "cover-crit",
+      "delays": [
+        0,2,
+        0.2,
+        0,2,
+        0.2
+      ]
+    },
+    {
+      "name": "cover-crit",
+      "delays": [
+        0,2,
+        0.2,
+        0,2,
+        0.2
+      ]
+    },
+    {
+      "name": "crit-unshaded",
+      "delays": [
+        0,2,
+        0.2,
+        0,2,
+        0.2
+      ]
+    },
+    {
+      "name": "dead"
+    },
+    {
+      "name": "cover-dead"
+    }
+  ]
+}
