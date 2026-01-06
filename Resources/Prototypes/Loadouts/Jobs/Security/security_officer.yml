@@ -95,18 +95,6 @@
   groupBy: "jumpskirt"
 
 - type: loadout
-  id: SecurityJumpsuitGrey
-  equipment:
-    jumpsuit: ClothingUniformJumpsuitSecGrey
-  groupBy: "jumpsuit"
-
-- type: loadout
-  id: SecurityJumpskirtGrey
-  equipment:
-    jumpsuit: ClothingUniformJumpskirtSecGrey
-  groupBy: "jumpskirt"
-
-- type: loadout
   id: TrooperUniform
   equipment:
     jumpsuit: ClothingUniformSecurityTrooper

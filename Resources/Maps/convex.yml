@@ -104495,7 +104495,7 @@ entities:
     - type: Transform
       pos: 136.41232,43.347256
       parent: 1
-- proto: ClothingUniformJumpsuitSecBlue
+- proto: ClothingUniformJumpsuitSec
   entities:
   - uid: 26227
     components:

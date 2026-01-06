@@ -82505,7 +82505,7 @@ entities:
     - type: Transform
       pos: -68.32025,107.642845
       parent: 2
-- proto: ClothingUniformJumpsuitSecGrey
+- proto: ClothingUniformSecurityTrooper
   entities:
   - uid: 35791
     components:
